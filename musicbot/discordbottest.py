@@ -130,4 +130,4 @@ async def setup(bot):
 asyncio.run(setup(bot))
  
 # Run the bot
-bot.run('MTE2OTIyNjUyODkxMjA1NjM3MA.GT0Ugb.KHgiAjl6PCFwXuDMwLozWka5uqQ0a6fyJB2djI')
+bot.run('MY BOT TOKEN')
